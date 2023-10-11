@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+}
+
+* {
+    border: .5px solid black;
+}
+
+* {
+    background-color: #80DDFF;
+}
+
+.links1 {
+    color: gray;
+}
+
+.links2 {
+    color: gray;
+}
+
+p {
+    color: white;
+}
