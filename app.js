@@ -18,3 +18,13 @@ function getName() {
     let userName = prompt ('What is your name?');
     return userName
 }
+
+let response = prompt('What is my favorite ice cream flavor: chocolate, vanilla, or mint?');
+
+let favoriteFlavor = "vanilla";
+
+if(response == favoriteFlavor){
+    alert('You are correct!');
+} else{
+    alert('Incorrect, try again')
+}
