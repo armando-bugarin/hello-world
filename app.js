@@ -1,8 +1,5 @@
 'use strict';
 
-
-
-
 function intro() {
 
     let answer = prompt('Are you hungry for ice cream?');
