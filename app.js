@@ -23,5 +23,5 @@ let favoriteFlavor = "vanilla";
 if(response == favoriteFlavor){
     alert('You are correct!');
 } else{
-    alert('Incorrect, my favorite flavor is vanilla');
+    alert('Incorrect! It is vanilla');
 }
