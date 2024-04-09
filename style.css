@@ -7,7 +7,7 @@ h1 {
 }
 
 * {
-    background-color: #80DDFF;
+    background-color: whitesmoke;
 }
 
 .links1 {
@@ -19,7 +19,15 @@ h1 {
 }
 
 p {
-    color: white;
+    color: black;
     display: block;
 }
 
+.image-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-container img {
+    margin: 10px;
+}
