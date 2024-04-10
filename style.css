@@ -1,21 +1,19 @@
-h1 {
-    color: blue;
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
-* {
-    border: .5px solid black;
+h1 {
+    color: blue;
 }
 
 * {
     background-color: whitesmoke;
 }
 
-.links1 {
-    color: gray;
-}
-
-.links2 {
-    color: gray;
+.link {
+    color: black;
 }
 
 p {
