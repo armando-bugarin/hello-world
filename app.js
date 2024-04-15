@@ -16,7 +16,7 @@
 //     return userName
 // }
 
-let response = prompt('What is my favorite ice cream flavor: chocolate, vanilla, or mint, or strawberry?');
+let response = prompt('What is the most popular ice cream flavor: chocolate, vanilla, or mint, or strawberry?');
 
 let favoriteFlavor = "vanilla";
 
