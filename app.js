@@ -24,7 +24,7 @@ if(response == favoriteFlavor){
     alert('You are correct!');
 } 
 if(response == ''){
-    alert('Invalid response, please try again!');
+    alert('Invalid response');
 }
 else{
     alert('Incorrect! It is vanilla');
