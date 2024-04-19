@@ -21,11 +21,11 @@ let response = prompt('What is the most popular ice cream flavor: chocolate, van
 let favoriteFlavor = "vanilla";
 
 if(response == favoriteFlavor){
-    alert('You are correct!');
+    alert('Correct');
 } 
 if(response == ''){
     alert('Invalid response');
 }
 else{
-    alert('Incorrect! It is vanilla');
+    alert('Incorrect, it is vanilla');
 }
