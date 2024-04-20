@@ -27,5 +27,5 @@ if(response == ''){
     alert('Invalid response');
 }
 else{
-    alert('Incorrect, it is vanilla');
+    alert('Incorrect, the most popular is vanilla');
 }
